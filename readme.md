@@ -74,7 +74,8 @@ callTool response:  {
       text: "You've ordered 3 tickets for April 19th, 2025.         Your order number is OINK-1234."
     }
   ]
-}```
+}
+```
 
 ## Learn about mcp
 [Intro](https://modelcontextprotocol.io/introduction)
