@@ -5,5 +5,5 @@ import serverlessExpress from '@codegenie/serverless-express';
 import mcpServer from './mcpServer.js';
 import transport from './transport-http.js';
 
-const expressApp = transport.bootstrap(mcpServer);
+const expressApp = await transport.bootstrap(mcpServer);
 export const handler = serverlessExpress({ app: expressApp });
