@@ -1,5 +1,9 @@
 # Peppa MCP Server on Lambda
 
+Check out the [Building Serverless MCP Servers and What Does Peppa Pig Have To Do With It](https://www.ranthebuilder.cloud/post/building-serverless-mcp-server) blog for the full story. 
+
+--
+
 A Peppa MCP Server running natively on AWS Lambda and Amazon API Gateway without any extra bridging components or custom transports. This is now possible thanks to the [Streamable HTTP](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http) transport introduced in v2025-03-26. 
 
 Architecture is as simple as it gets: 
