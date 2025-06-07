@@ -1,6 +1,7 @@
 # Peppa MCP Server on Lambda
 
-Check out the [Building Serverless MCP Servers and What Does Peppa Pig Have To Do With It](https://www.ranthebuilder.cloud/post/building-serverless-mcp-server) blog for the full story. 
+1. Check out the [Building Serverless MCP Servers and What Does Peppa Pig Have To Do With It](https://www.ranthebuilder.cloud/post/building-serverless-mcp-server) blog for the full story.
+2. This repo is not being maintained. See [this repo](https://github.com/aws-samples/sample-serverless-mcp-servers) for more examples of running Serverless MCP Servers on AWS.
 
 --
 
